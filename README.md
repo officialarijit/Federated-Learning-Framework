@@ -1,6 +1,6 @@
-# Sherpa.ai Federated Learning and Differential Privacy Framework
+# Federated Learning and Differential Privacy Framework
 
-The [Sherpa.ai](http://sherpa.ai) Federated Learning and Differential Privacy Framework has been developed to facilitate 
+The Federated Learning and Differential Privacy Framework has been developed to facilitate 
 open research in the ﬁeld, with the objective of building models that learn from decentralized data, preserving data privacy. 
 It is an open-source platform and aims to support 100 percent of the AI algorithms used in industry.
 
@@ -26,16 +26,6 @@ but would benefit from models that learn from other manufacturers' data, in orde
 *    Due to data-privacy legislation, banks and telecom companies, for example, cannot share individual records, but would 
 benefit from models that learn from data across several entities.
 
-Sherpa.ai is focused on democratizing Federated Learning by providing methodologies, pipelines, and evaluation techniques 
-specifically designed for Federated Learning. The Sherpa.ai Federated Learning Platform enables developers to simulate Federated 
-Learning scenarios with models, algorithms, and data provided by the framework, as well as their own data.
-
-The Sherpa.ai Federated Learning and Differential Privacy Framework is a project by [Sherpa.ai](http://sherpa.ai), in collaboration 
-with the [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/) research 
-group from the [University of Granada](https://www.ugr.es/).
-
-<p align="center"><img src="https://sherpa-cdn.s3-eu-west-1.amazonaws.com/forContest/Sherpa_ai_logo_nodegrade.png" alt="Sherpa AI" height = "120" /></p>
-<p align="center"><img src="https://sherpa-cdn.s3-eu-west-1.amazonaws.com/third_parties_logos/DaSCI_logo_vertical.png"  alt="Andalusian Research Institute in Data Science and Computational Intelligence" height = "240"/> <img src="https://sherpa-cdn.s3-eu-west-1.amazonaws.com/third_parties_logos/ugr_logo.png"  alt="University of Granada" height = "240"/></p>
 
 ## Installation
 
@@ -49,9 +39,7 @@ for a brief introduction to using the Sherpa.ai Federated Learning and Different
 
 ## Contributing
 
-If you are interested in contributing to the Sherpa.ai Federated Learning and Differential Privacy Framework with tutorials, 
-datasets, models, aggregation mechanisms, or any other code that others could benefit from, please be sure to review the 
-[contributing guidelines](CONTRIBUTING.md).
+
 
 ## Issues
 
